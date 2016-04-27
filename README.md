@@ -12,7 +12,7 @@ server.java represents the OLT;
 
 packet.java carry the info of a packet;
 
-simulation.java simulation the activity between the two clients;
+simulation.java simulated the activity between the two clients;
 
 if Tmax in customer.java =1000000(large enough), this can be viewed as the simulation of the gated service of IPACT;
 
